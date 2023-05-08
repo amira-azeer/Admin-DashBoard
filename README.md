@@ -18,5 +18,5 @@ npm start
 
 ## Dashboard Demonstration 
 
-https://user-images.githubusercontent.com/103902057/236812393-eb644632-8997-49fb-8531-9ca4a6d7105c.mp4
+https://user-images.githubusercontent.com/103902057/236812967-70d39e2c-876a-4d50-9135-f91d145ebf6b.mp4
 
