@@ -18,6 +18,5 @@ npm start
 
 ## Dashboard Demonstration 
 
-<video width="500" height="300" controls>
-  <source src="rep_assets/react-admin-demo.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/103902057/236812393-eb644632-8997-49fb-8531-9ca4a6d7105c.mp4
+
